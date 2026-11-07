@@ -84,7 +84,7 @@ namespace AmuseOverlay
     internal sealed class OverlayConfig
     {
         public const string DefaultUrl =
-            "https://6klabs.com/widget/amuse/vjb4txyuby6rbwsevz8zbjijg3ltyt0d35bdjhze18nu9g41sypock4jqr9at4hr";
+            "https://6klabs.com/widget/amuse/你的密钥";
 
         public string Url = DefaultUrl;
         public int X = -1;
