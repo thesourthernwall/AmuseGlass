@@ -4,6 +4,9 @@
 透明背景、置顶、无任务栏图标，只留一个托盘图标。
 适用于日常，游戏直播等。（直播时使用OBS源可能导致ACE扫后台造成误封）
 
+<img width="738" height="451" alt="image" src="https://github.com/user-attachments/assets/cf35d57b-0d7a-454e-a615-da8adb411b1e" />
+
+
 ## 系统要求
 
 - Windows 10 / 11（64 位）
