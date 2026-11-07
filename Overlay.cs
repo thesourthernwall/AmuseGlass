@@ -1,12 +1,3 @@
-// Amuse Desktop Overlay
-// A transparent, always-on-top, click-through WebView2 window that projects a
-// web widget (browser source) onto the Windows desktop.
-//
-// No taskbar entry, no console window. Control it from the tray icon.
-//
-// Build with: powershell -ExecutionPolicy Bypass -File build.ps1
-// Requires .NET Framework 4.8 + Microsoft Edge WebView2 Runtime.
-
 using System;
 using System.Collections.Generic;
 using System.Drawing;
