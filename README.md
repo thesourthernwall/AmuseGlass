@@ -2,7 +2,7 @@
 
 把 6K Labs Amuse 的浏览器源（browser source）直接投射到 Windows 桌面上：
 透明背景、置顶、无任务栏图标，只留一个托盘图标。
-适用于日常，游戏直播等。（直播时使用OBS源可能导致ACE扫后台造成误封）
+适用于日常，游戏直播等。（直播游戏时使用OBS源可能导致ACE扫后台造成误封）
 
 <img width="2047" height="1445" alt="image" src="https://github.com/user-attachments/assets/7de4822c-d871-4ee5-ac59-a84fae13e149" />
 
